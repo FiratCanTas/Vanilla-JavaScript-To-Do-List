@@ -7,6 +7,7 @@
 ![Downloads](https://img.shields.io/github/downloads/FiratCanTas/Vanilla-JavaScript-To-Do-List/total) ![Contributors](https://img.shields.io/github/contributors/FiratCanTas/Vanilla-JavaScript-To-Do-List?color=dark-green) ![Forks](https://img.shields.io/github/forks/FiratCanTas/Vanilla-JavaScript-To-Do-List?style=social) ![Stargazers](https://img.shields.io/github/stars/FiratCanTas/Vanilla-JavaScript-To-Do-List?style=social) ![Issues](https://img.shields.io/github/issues/FiratCanTas/Vanilla-JavaScript-To-Do-List) ![License](https://img.shields.io/github/license/FiratCanTas/Vanilla-JavaScript-To-Do-List) 
 
 ## About The Project
+<img src="img/ui-image.png" alt="resim açıklaması" width="900"/>
 
 This project was developed to help users plan and put some tasks in their daily life as a reminder. You can add the tasks you need to complete during the day to the list. You can delete tasks you stopped doing, update tasks you want to change, and strikethrough tasks you have completed.
 
