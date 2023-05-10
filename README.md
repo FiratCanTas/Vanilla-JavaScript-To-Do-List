@@ -1,5 +1,8 @@
 <br/>
 <p align="center">
+   <a href="https://github.com/FiratCanTas/Vanilla-JavaScript-To-Do-List">
+   <img src="https://kodluyoruz.org/wp-content/uploads/2023/04/roket-logo.png" width="90" height="90">
+  </a>
   <h3 align="center">To-Do List</h3>
 
 </p>
